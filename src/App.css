@@ -1,0 +1,19 @@
+.App {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  width: 100vh;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+#light{
+  background-color: #fff;
+  color: #000;
+}
+#dark{
+  background-color: #000;
+  color: #fff;
+}
+
